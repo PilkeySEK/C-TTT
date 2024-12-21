@@ -1,0 +1,5 @@
+ttt.exe
+a.out
+.vscode
+ttt*
+!ttt.c
